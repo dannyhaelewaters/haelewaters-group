@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+    charset part1_ITS1 = 2_Simocybe_ITS_aligned_SSU_LSUcut.fasta: 1-311;
+    charset part2_58S = 2_Simocybe_ITS_aligned_SSU_LSUcut.fasta: 312-469;
+    charset part3_ITS2 = 2_Simocybe_ITS_aligned_SSU_LSUcut.fasta: 470-720;
+end;
